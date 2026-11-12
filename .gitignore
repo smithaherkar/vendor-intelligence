@@ -1,5 +1,28 @@
+# Virtual Environments
 venv/
+.venv/
+env/
+ENV/
+
+# Python cache & artifacts
 __pycache__/
 *.pyc
-.env
+*.pyo
+*.pyd
 *.db
+*.sqlite3
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+
+# IDE & Editor Config
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

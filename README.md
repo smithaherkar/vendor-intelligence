@@ -7,7 +7,6 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0%2B-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 **An intelligent, machine learning-driven procurement auditing system for real-time invoice risk classification and predictive freight cost estimation.**
 
@@ -343,9 +342,3 @@ vendor_intelligence/
 **Smith Aherkar**
 - GitHub: [@smithaherkar](https://github.com/smithaherkar)
 - Repository: [vendor-intelligence](https://github.com/smithaherkar/vendor-intelligence)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
